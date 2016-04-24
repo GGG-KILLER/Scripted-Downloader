@@ -49,3 +49,10 @@ Then to use it, you'd input https://example.com/page1images.json, which would ha
 And then it'd download img1.png, img2.png and img3.png to `<Save Path Chosen in the Settings>/randomdl/paage1images/`.
 
 This is only a single possibility, but there are many more!
+
+# Contributiosn
+Jint - .NET JavaScript Interpreter
+
+Jint is what runs the JavaScript, this project would be nothing without it.
+
+Jint is Copyright of [Sebastien Ros](https://github.com/sebastienros)
