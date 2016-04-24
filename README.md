@@ -1,5 +1,6 @@
 # Scripted-Downloader
 Uses JS as the downloader logic making possible to download anything from anywhere.
+Check out the [latest release](https://github.com/GGG-KILLER/Scripted-Downloader/releases/latest) for the binaries.
 
 # Requests
 All requests should be explained in the following format:
