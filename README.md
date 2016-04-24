@@ -1,2 +1,2 @@
 # Scripted-Downloader
-A downloader that provides a Js interface so that the logic can be done entirely by scripting.
+Uses JS as the downloader logic making possible to download anything from anywhere.
