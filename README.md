@@ -3,9 +3,12 @@ Uses JS as the downloader logic making possible to download anything from anywhe
 Check out the [latest release](https://github.com/GGG-KILLER/Scripted-Downloader/releases/latest) for the binaries.
 
 # Requests
-All requests should be explained in the following format:
+All requests must be explained in the following format:
+
 Type of request: (functionality/script function/etc)
+
 Request description: <description>
+
 Reason of request: <reason>
 
 # Script Samples
@@ -51,7 +54,7 @@ And then it'd download img1.png, img2.png and img3.png to `<Save Path Chosen in 
 
 This is only a single possibility, but there are many more!
 
-# Contributiosn
+# 3rd Party Libraries
 Jint - .NET JavaScript Interpreter
 
 Jint is what runs the JavaScript, this project would be nothing without it.
